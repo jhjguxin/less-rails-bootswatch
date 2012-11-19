@@ -6,7 +6,7 @@
 // TYPOGRAPHY
 // --------------------------------------------------
 
-//@import url('https://fonts.googleapis.com/css?family=Josefin+Slab:400,700');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab:400,700');
 
 h1 {
 	font-size: 54px;
